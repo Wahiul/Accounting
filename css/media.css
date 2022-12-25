@@ -1,0 +1,299 @@
+/***** min-width start here *****/
+@media(min-width: 992px){
+    .mb-lg-0{
+        margin-top: 10px!important;
+    }
+    .message_icon a{
+        bottom: 85px;
+    }
+}
+/***** max-width start here *****/
+@media(max-width:1199.98px){
+    .navbar-light .navbar-brand{
+        font-size: 23px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        margin-right: 16px;
+    }
+    .banner_info h1{
+        font-size: 35px;
+        width: 80%;
+    }
+    .agency{
+        align-items: center;
+    }
+    .accordion-flush .accordion-item .accordion-button{
+        font-size: 15px;
+    }
+    .email_details h4{
+        font-size: 20px;
+    }
+    .email_details input[type="email"]{
+        padding: 10px;
+    }
+    .email_details input[type="submit"]{
+        padding: 0 12px;
+    }
+    .pricing_item span{
+        font-size: 50px;
+    }
+    .pricing_item p{
+        font-size: 14px;
+    }
+    .btn-started{
+        padding: 7px 12px;
+    }
+    .footer_about h4, .footer_email h4{
+        font-size: 15px;
+    }
+}
+@media(max-width:1062.98px){
+    .btn-connect{
+        padding: 10px 13px;
+    }
+    .agency_section h2{
+        line-height: 42px;
+        font-size: 28px;
+    }
+    .agency_info h4{
+        font-size: 18px;
+    }
+    .agency_count h1, .pricing_item span{
+        font-size: 45px;
+    }
+    .footer_email{
+        padding: 0 30px;
+    }
+}
+@media(max-width:996.98px){
+    .agency_details_icon i{
+        left: 20%;
+        top: 15%;
+    }
+    .clients_feedback{
+        padding: 25px 22px;
+    }
+    .question_secion{
+        padding: 80px 0;
+    }
+    .question_secion{
+        padding: 80px 0;
+    }
+}
+@media(max-width:991.98px){
+    .navbar-nav .nav-item .nav-link{
+        margin-bottom: 13px;
+    }
+    .navbar-light .navbar-toggler{
+        color: #1BA12D;
+        border-color: #1BA12D;
+    }
+    .agency_section h2{
+        font-size: 25px;
+    }
+    .agency_info p{
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .agency_icon a i{
+        height: 50px;
+        width: 50px;
+        font-size: 20px;
+        margin-right: 20px;
+    }
+    .mobile_agency{
+        display: contents;
+    }
+    .agency_details_icon i{
+        left: -6%;
+        top: 14%;
+    }
+    .agency_details_details{
+        padding-top: 40px;
+    }
+    .clients_feedback{
+        padding: 20px 15px;
+    }
+    .clinets_details h5, .email_details h4{
+        font-size: 17px;
+    }
+    .question_content{
+        align-items: center;
+    }
+    .agency_section h2{
+        font-size: 23px;
+        margin: 9px 0 15px 0;
+    }
+    .question_content p{
+        margin-bottom: 25px;
+        font-size: 14px;
+    }
+    .accordion-flush .accordion-item .accordion-button{
+        padding: 17px;
+    }
+    .question_secion, .clients_section{
+        padding: 50px 0;
+    }
+    .clients_feedback{
+        padding: 25px 15px;
+    }
+    .email_details input[type="email"], .email_details input[type="submit"]{
+        font-size: 13px;
+    }
+    .pricing_item{
+        padding: 30px 5px;
+    }
+    .agency_count h1, .pricing_item span{
+        font-size: 38px;
+    }
+    .btn-started{
+        padding: 6px 8px;
+    }
+    .btn-started, .pricing_item p{       
+        font-size: 12px;
+    }
+    .pricing_item h5{
+        font-size: 15px;
+    }
+    .footer_email{
+        padding: 0 20px;
+    }
+    .message_icon a{
+        bottom: 85px;
+    }
+}
+@media(max-width:912.98px){
+    .email_details h4{
+        font-size: 15px;
+    }
+}
+@media(max-width:828.98px){
+    .footer_email{
+        padding: 0 15px;
+    }
+}
+@media(max-width:820.98px){
+    .pricing_item span{
+        font-size: 30px;
+    }
+}
+@media(max-width:767.98px){
+    .social_icon {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .banner_info h5{
+        font-size: 17px;
+    }
+    .banner_info h1{
+        font-size: 32px;
+        width: 100%;
+    }
+    .top_header .container, .contact_info, .social_icon{
+        transform: skew(0deg);
+    }
+    .agency img{
+        padding-bottom: 60px;
+    }
+    .agency_section h2{
+        margin: 9px 0 35px 0;
+    }
+    .agency_details_icon i{
+        left: 2%;
+        top: 32%;
+    }
+    .agency_count h6{
+        margin-bottom: 50px;
+    }
+    .agency_section{
+        padding: 0;
+    }
+    .clients_feedback{
+        padding: 32px 40px;
+        margin-bottom: 50px;
+    }
+    .clinets_img img{
+        width: 20%;
+    }
+    .faqs_img_one img{
+        width: 80%;
+    }
+    .faqs_img_one::before{
+        left: 12%;
+        top: 120%;
+        background-size: 80%;
+    }
+    .mobile_question{
+        padding-top: 270px;
+    }
+    .clients_feedback{
+        padding: 40px 40px;
+    }
+    .email_details h4{
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .pricing_item{
+        padding: 40px 20px;
+        margin-bottom: 50px;
+    }
+}
+@media(max-width:603.98px){
+    .faqs_img_one::before{
+        left: 6%;
+    }
+}
+@media(max-width:575.98px){
+    .mobile_ms{
+        margin-left: 0 !important;
+        padding: 50px;
+    }
+    .faqs_img_one::before{
+        left: 0%;
+    }
+    .banner_info h1{
+        font-size: 27px;
+    }
+}
+@media(max-width:425.98px){
+    .agency_details_details{
+        padding-top: 0px;
+    }
+    .agency_section h2{
+        line-height: 35px;
+    }
+}
+@media(max-width:375.98px){
+    .agency_count{
+        padding: 15px 0;
+    }
+    .agency img{
+        padding-bottom: 20px;
+    }
+    .testimonial{
+        padding-bottom: 70px;
+    }
+    .mobile_question{
+        padding-top: 188px;
+    }
+    .price{
+        padding: 40px 0;
+    }
+}
+@media(max-width:281.98px){
+    .heading{
+        padding: 0;
+    }
+    .info_one{
+        margin-right: 6px;
+    }
+    .banner_info h5{
+        font-size: 14px;
+    }
+    .banner_info h1{
+        font-size: 18px;
+    }
+    .agency_section h2{
+        font-size: 21px;
+    }
+}
